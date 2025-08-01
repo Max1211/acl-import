@@ -1,6 +1,6 @@
-# ACL Import Tool for Pensando Systems Manager (PSM)
+# ACL Import Tool for Policy and Services Manager (PSM)
 
-A Python script that converts Cisco Nexus ACL rules into Pensando Systems Manager (PSM) network security policies via REST API.
+A Python script that converts Cisco Nexus ACL rules into Policy and Services Manager (PSM) network security policies via REST API.
 
 ## Overview
 
@@ -20,7 +20,7 @@ This tool parses Cisco Nexus-style ACL entries and transforms them into PSM-comp
 ## Prerequisites
 
 - Python 3.6+
-- Access to Pensando Systems Manager (PSM) API
+- Access to Policy and Services Manager (PSM) API
 - Required Python packages (see `requirements.txt`)
 
 ## Installation
