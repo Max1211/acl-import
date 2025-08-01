@@ -1,0 +1,7 @@
+#PSM Credentials
+USERNAME=admin
+PASSWORD=Pensando0$
+APIGWURL=https://192.168.61.230
+
+DISPLAY_NAME=ACL-Import-Merged
+RULE_NAME_PREFIX=ACE-rule
